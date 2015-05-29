@@ -10,5 +10,5 @@ Requires (to compile):<br/>
 Subversion checkout URL:<br/>
 https://github.com/dandar3/android-support-v7-cardview/tags/22.2.0
 
-Release Notes:
+Release Notes:<br/>
 https://developer.android.com/tools/support-library/index.html#revisions
