@@ -2,7 +2,7 @@ android-support-v7-cardview
 ===========================
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/cardview-v7/23.2.1/cardview-v7-23.2.1.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/cardview-v7/23.2.1/cardview-v7-23.3.0.aar`
 
 Requires (to compile):<br/>
 `Android 2.1 (API 7) SDK Platform`
@@ -13,5 +13,5 @@ Subversion checkout URL:<br/>
 References:<br/>
 * https://developer.android.com/tools/support-library/index.html#revisions
 * https://developer.android.com/tools/support-library/features.html#v7-cardview
-* https://plus.google.com/+AndroidDevelopers/posts/BZgzpAqkd8G
+* https://plus.google.com/+AndroidDevelopers/posts/iTDmFiGrVne
 * https://android-developers.blogspot.com/2016/02/android-support-library-232.html
