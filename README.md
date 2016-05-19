@@ -7,7 +7,7 @@ Eclipse library project based on:<br/>
 Requires (to compile):<br/>
 `Android 6.0 (API 23) SDK Platform`
 
-Subversion checkout URLs:<br/>
+Subversion checkout URLs:
 * `Eclipse ADT`<br/>
   https://github.com/dandar3/android-support-v7-cardview/tags/23.4.0
 * `Eclipse Andmore`<br/>
