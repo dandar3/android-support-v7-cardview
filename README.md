@@ -5,6 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires**:
 - `Android 7.0 (API 24) SDK Platform`
+- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
