@@ -13,6 +13,6 @@ Eclipse library project based on:<br/>
 
 **SVN checkout:**
 - _File > Import > Team Project Set_<br/>
-  https://github.com/dandar3/android-support-v7-cardview/tags/24.1.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-support-v7-cardview/24.1.1/.projectset
 - _File > New > Other... > SVN > Project from SVN_<br/> 
   https://github.com/dandar3/android-support-v7-cardview/tags/24.1.1
