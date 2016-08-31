@@ -12,7 +12,7 @@ Eclipse library project based on:<br/>
 - https://developer.android.com/topic/libraries/support-library/features.html#v7-cardview
 
 **SVN checkout:**
-- _File > Import > Team Project Set > URL:_<br/>
+- _File > Import... > Team > Team Project Set > URL:_<br/>
   https://raw.githubusercontent.com/dandar3/android-support-v7-cardview/24.1.1/.projectset
-- _File > Import > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
+- _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
   https://github.com/dandar3/android-support-v7-cardview/tags/24.1.1
