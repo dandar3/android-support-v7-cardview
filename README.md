@@ -4,7 +4,7 @@ Eclipse library project based on:<br/>
 `ANDROID_SDK/extras/android/m2repository/com/android/support/cardview-v7/24.2.1/cardview-v7-24.2.1.aar`
 
 **Requires**:
-- `Android 7.0 (API 24) SDK Platform`
+- `Android 7.1 (API 25) SDK Platform`
 - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/24.2.1)
 
 **References:**
