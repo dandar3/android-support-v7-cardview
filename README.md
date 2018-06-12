@@ -3,7 +3,7 @@
 Eclipse library project based on:<br/>
 https://maven.google.com/com/android/support/cardview-v7/27.1.1/cardview-v7-27.1.1.aar
 
-**Requires**:
+**Requires:**
 - `Android 8.1 (API 27) SDK Platform`
 - [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/27.1.1)
 
